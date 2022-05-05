@@ -1,0 +1,194 @@
+{
+  "Students": [
+    {
+      "ID": "1",
+      "FirstName": "Max",
+      "LastName": "Mustermann",
+      "Gender": "1",
+      "DOB": "2000/01/01",
+      "Department": "Applied computer science",
+      "EmailID": "maxmustermann@muster.com",
+      "JoiningDate": "2000-01-02"
+    },
+    {
+      "ID": "2",
+      "FirstName": "Max",
+      "LastName": "Mustermann",
+      "Gender": "1",
+      "DOB": "2000/01/01",
+      "Department": "Applied computer science",
+      "EmailID": "maxmustermann@muster.com",
+      "JoiningDate": "2000-01-02"
+    },
+    {
+      "ID": "3",
+      "FirstName": "Max",
+      "LastName": "Mustermann",
+      "Gender": "1",
+      "DOB": "2000/01/01",
+      "Department": "Applied computer science",
+      "EmailID": "maxmustermann@muster.com",
+      "JoiningDate": "2000-01-02"
+    },
+    {
+      "ID": "4",
+      "FirstName": "Max",
+      "LastName": "Mustermann",
+      "Gender": "1",
+      "DOB": "2000/01/01",
+      "Department": "Applied computer science",
+      "EmailID": "maxmustermann@muster.com",
+      "JoiningDate": "2000-01-02"
+    },
+    {
+      "ID": "5",
+      "FirstName": "Max",
+      "LastName": "Mustermann",
+      "Gender": "1",
+      "DOB": "2000/01/01",
+      "Department": "Applied computer science",
+      "EmailID": "maxmustermann@muster.com",
+      "JoiningDate": "2000-01-02"
+    },
+    {
+      "ID": "6",
+      "FirstName": "Max",
+      "LastName": "Mustermann",
+      "Gender": "1",
+      "DOB": "2000/01/01",
+      "Department": "Applied computer science",
+      "EmailID": "maxmustermann@muster.com",
+      "JoiningDate": "2000-01-02"
+    },
+    {
+      "ID": "7",
+      "FirstName": "Max",
+      "LastName": "Mustermann",
+      "Gender": "1",
+      "DOB": "2000/01/01",
+      "Department": "Applied computer science",
+      "EmailID": "maxmustermann@muster.com",
+      "JoiningDate": "2000-01-02"
+    },
+    {
+      "ID": "8",
+      "FirstName": "Max",
+      "LastName": "Mustermann",
+      "Gender": "1",
+      "DOB": "2000/01/01",
+      "Department": "Applied computer science",
+      "EmailID": "maxmustermann@muster.com",
+      "JoiningDate": "2000-01-02"
+    },
+    {
+      "ID": "9",
+      "FirstName": "Max",
+      "LastName": "Mustermann",
+      "Gender": "1",
+      "DOB": "2000/01/01",
+      "Department": "Applied computer science",
+      "EmailID": "maxmustermann@muster.com",
+      "JoiningDate": "2000-01-02"
+    },
+    {
+      "ID": "10",
+      "FirstName": "Max",
+      "LastName": "Mustermann",
+      "Gender": "1",
+      "DOB": "2000/01/01",
+      "Department": "Applied computer science",
+      "EmailID": "maxmustermann@muster.com",
+      "JoiningDate": "2000-01-02"
+    },
+    {
+      "ID": "10",
+      "FirstName": "Max",
+      "LastName": "Mustermann",
+      "Gender": "1",
+      "DOB": "2000/01/01",
+      "Department": "Applied computer science",
+      "EmailID": "maxmustermann@muster.com",
+      "JoiningDate": "2000-01-02"
+    },
+    {
+      "ID": "11",
+      "FirstName": "Max",
+      "LastName": "Mustermann",
+      "Gender": "1",
+      "DOB": "2000/01/01",
+      "Department": "Applied computer science",
+      "EmailID": "maxmustermann@muster.com",
+      "JoiningDate": "2000-01-02"
+    },
+    {
+      "ID": "12",
+      "FirstName": "Max",
+      "LastName": "Mustermann",
+      "Gender": "1",
+      "DOB": "2000/01/01",
+      "Department": "Applied computer science",
+      "EmailID": "maxmustermann@muster.com",
+      "JoiningDate": "2000-01-02"
+    },
+    {
+      "ID": "13",
+      "FirstName": "Max",
+      "LastName": "Mustermann",
+      "Gender": "1",
+      "DOB": "2000/01/01",
+      "Department": "Applied computer science",
+      "EmailID": "maxmustermann@muster.com",
+      "JoiningDate": "2000-01-02"
+    },
+    {
+      "ID": "14",
+      "FirstName": "Max",
+      "LastName": "Mustermann",
+      "Gender": "1",
+      "DOB": "2000/01/01",
+      "Department": "Applied computer science",
+      "EmailID": "maxmustermann@muster.com",
+      "JoiningDate": "2000-01-02"
+    },
+    {
+      "ID": "15",
+      "FirstName": "Max",
+      "LastName": "Mustermann",
+      "Gender": "1",
+      "DOB": "2000/01/01",
+      "Department": "Applied computer science",
+      "EmailID": "maxmustermann@muster.com",
+      "JoiningDate": "2000-01-02"
+    },
+    {
+      "ID": "16",
+      "FirstName": "Max",
+      "LastName": "Mustermann",
+      "Gender": "1",
+      "DOB": "2000/01/01",
+      "Department": "Applied computer science",
+      "EmailID": "maxmustermann@muster.com",
+      "JoiningDate": "2000-01-02"
+    },
+    {
+      "ID": "17",
+      "FirstName": "Max",
+      "LastName": "Mustermann",
+      "Gender": "1",
+      "DOB": "2000/01/01",
+      "Department": "Applied computer science",
+      "EmailID": "maxmustermann@muster.com",
+      "JoiningDate": "2000-01-02"
+    },
+    {
+      "ID": "18",
+      "FirstName": "Max",
+      "LastName": "Mustermann",
+      "Gender": "1",
+      "DOB": "2000/01/01",
+      "Department": "Applied computer science",
+      "EmailID": "maxmustermann@muster.com",
+      "JoiningDate": "2000-01-02"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<link rel="stylesheet" type="text/css" href="staff.css"/>
+<script src="../validateForm.js" ></script>
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+      body {
+        display: flex;
+        align-content: center;
+        justify-content: center;
+      }
+    </style>
+</head>
+<body>
+<div class="container">
+  <form name="staffForm" id="newStaff" onsubmit="validateAdd()">
+    <h1>New Staff</h1>
+    <label for="staffID">Student ID</label>
+    <input type="number" name="staffID" id="staffID" required>
+    <label for="fname">First Name</label>
+    <input type="text" name="fname" id="fname" required>
+    <label for="lname">Last Name</label>
+    <input type="text" name="lname" id="lname">
+    <label for="DOB">DOB</label>
+    <input type="date" id="DOB" name="DOB" onclick="setMaxDate()">
+
+    <label for="male">male</label>
+    <input type="radio" id="male" name="gender" value="male">
+    <label for="female">female</label>
+    <input type="radio" id="female" name="gender" value="female">
+    <label for="other">other</label>
+    <input type="radio" id="other" name="gender" value="gae">
+    <label for="emailID">e-mail ID</label>
+    <input type="text" id="emailID" name="emailID" required>
+    <label for="JoiningDate">JoiningDate</label>
+    <input type="date" id="JoiningDate" name="JoiningDate" min="2015-01-01" max="2015-12-31">
+    <button type="submit" value="Submit">Submit</button>
+  </form>
+</div>
+
+</body>
+</html>

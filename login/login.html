@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="login.js"></script>
+    <link rel="stylesheet" type="text/css" href="login.css"/>
+    <meta charset="UTF-8">
+    <title>HomePage</title>
+</head>
+<body>
+<div class="loginWindow">
+    <form name="adminLoginForm" id ="adminLoginForm" onsubmit="return submitAdminLogin()">
+        <h1>Admin Login</h1>
+        <label for="adminName">Name</label>
+        <input type="text" name="adminName" id="adminName" required>
+        <label for="adminPassword">Password</label>
+        <input type="password" name="adminPassword" id="adminPassword" required>
+        <button type="submit" value="Submit" name ="adminSubmit" id="adminSubmit">Submit</button>
+    </form>
+    <form>
+        <h1>Staff Login</h1>
+        <label for="staffName">Name</label>
+        <input type="text" name="staffName" id="staffName" required>
+        <label for="staffPassword">Password</label>
+        <input type="password" name="staffPassword" id="staffPassword" required>
+        <button type="submit" value="Submit">Submit</button>
+    </form>
+</div>
+
+</body>
+</html>

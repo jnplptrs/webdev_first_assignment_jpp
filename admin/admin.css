@@ -1,0 +1,45 @@
+body {
+    background-color: white;
+}
+
+div{
+    display: flex;
+}
+
+h1{
+    align-self: center;
+    font-family: Arial;
+}
+.adminBox {
+    flex-direction: row;
+    align-self: center;
+    justify-self: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.adminButton {
+    background-color: black;
+    color: white;
+    width: 400px;
+    height: 250px;
+    font-size: xx-large;
+    margin: 50px;
+    cursor: pointer;
+}
+
+.adminButton:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    color: black;
+    background-color: white;
+    transition-duration: 0.5s;
+}
+
+.container {
+    display: flex;
+    align-self: center;
+    justify-self: center;
+}
+
+
+

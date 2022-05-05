@@ -1,0 +1,47 @@
+body {
+    background-color: white;
+}
+
+.loginWindow {
+    align-content: center;
+    justify-content: center;
+    flex-direction: row;
+    display: flex;
+}
+
+.container {
+    display: flex;
+    align-self: center;
+    justify-self: center;
+}
+
+form {
+    background-color: lightgray;
+    font-family: "Arial";
+    display: compact;
+    margin: 20px;
+    padding: 20px;
+}
+
+label{
+    color: black;
+    display: inline;
+    margin: 10px;
+    font-weight: bold;
+    cursor: pointer;
+}
+button {
+    color: white;
+    background-color: black;
+    border: hidden;
+    height: 20px;
+    width: 100px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    color: black;
+    background-color: white;
+}
